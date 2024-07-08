@@ -70,7 +70,7 @@ def extract_key_frames(video_path):
     result = find_17th_smallest(c_list)
     print("17th key frame ms-ssim score ")
     #print(result)
-    #print("below are the ms-ssim scores of 16 key frames")
+    #print("below are the ms-ssim scores of 16 key frames ")
 
     print("total frames using fr_no", fr_no)
 
